@@ -1,5 +1,5 @@
-## GFI Cash & Report Platform
-# Leonardo da Silva Nichele - Opah IT & Banco Carrefour 2025
+# GFI Cash & Report Platform
+## Leonardo da Silva Nichele - Opah IT & Banco Carrefour 2025
 
 Sistema moderno, modular e escalável, construída para o desafio técnico.
 A solução é composta por dois microserviços independentes:

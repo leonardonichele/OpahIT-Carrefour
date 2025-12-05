@@ -1,0 +1,6 @@
+@GFIReport_HostAddress = http://localhost:5196
+
+GET {{GFIReport_HostAddress}}/swagger
+Accept: application/json
+
+###

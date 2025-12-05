@@ -1,0 +1,6 @@
+@GFICash_HostAddress = http://localhost:5286
+
+GET {{GFICash_HostAddress}}/swagger
+Accept: application/json
+
+###
